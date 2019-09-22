@@ -1,0 +1,9 @@
+body {
+  margin-top: 70px auto;
+  color: #ffff;
+  background-color: #292929;
+  display: flex;
+  position: absolute;
+  margin-left: 20%;
+  width: 100%;
+}
